@@ -3,7 +3,7 @@
 [Email](mailto:a.r.anbuarasan@gmail.com) / [LinkedIn](linkedin.com/in/anbuarasan) / [GitHub](https://github.com/anbarasan21/) 
 
 
-## 👩🏼‍💻 Technical Experience
+## 👨‍💻  Technical Experience
 
   - **Senior Associate** @ [Cognizant technology solutions] _(June 2018 - Present)_ <br>
   - **Technology Lead** @ [Infosys] _(Jan 2017 - June 2018)_ <br>
@@ -11,13 +11,13 @@
   - **Application Engineer** @ [CellarStone] _(Nov 2012 - Dec 2016)_ <br>
   - **Software developer** @ [Aisys Technologies] _(Nov 2012 - Dec 2016)_ <br>
 
-## 👩🏼‍🎓 Professional Certifications
+## 👨‍💻 Professional Certifications
 
   - AZ-204	- Developing Solutions for Microsoft Azure _ <br>
   - 70-515 	- Microsoft .NET Framework 4, Web Applications _ <br>
   - 70-480 	- Programming in HTML5 with JavaScript and CSS3 _ <br>
-
-## 👩🏼‍🎓 Education
+   
+## 👨🏼‍🎓 Education
 
 **BE - Computer Science & Engineering** (Jun 2005 - May 2009)_ <br>
 - VelTech Multimedia Engg College, Chennai
