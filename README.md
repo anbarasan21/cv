@@ -24,9 +24,25 @@
 
 ## 📌 Professional Projects
 
-**Infosys Limited, Nov 2012 to till date								5.4 Years**  <br>
+**Cognizant Technologies, June 2018 to till date				3+ Years**  <br>
 
-Project 01:  Visa prepaid administration system <br>
+Project 01:  Evolution <br>
+
+Client			:  Chubb <br>
+Duration 	 	:  July 2018 – till date <br>
+Role     		:  Team Lead & Senior .Net developer <br>
+Description      	:  Evolution 
+Technologies used	:  C#, ASP.Net MVC, WEB API, JQuery, XUnit, MOQ. _ <br>
+Responsibilities 	 <br>
+• Involved in coding, Creating web forms & partial views, JQuery scripts. <br>
+• Creating Unit test and code coverage using XUnit & Moq. End to end support for QA.  <br>
+• Team management actives like assigning User stories, Code review, peer review and   <br>
+   technical support to team,  <br>
+
+
+**Infosys Limited, Nov 2012 to June 2018					5.6 Years**  <br>
+
+Project 02:  Visa prepaid administration system <br>
 
 Client			:  Visa <br>
 Duration 	 	:  Nov 2017 – till date <br>
@@ -42,7 +58,7 @@ Responsibilities 	 <br>
 • Team management actives like assigning User stories, Code review, peer review and   <br>
    technical support to team,  <br>
 
-Project 02:  Global Fulfillment solution <br>
+Project 03:  Global Fulfillment solution <br>
 
 Client			:  Bank of America <br>
 Duration 	 	:  Jan 2017 – Nov 2107 <br>
@@ -61,7 +77,7 @@ Responsibilities 	 <br>
 
 
 
-Project 03 :  Global Underwriting Solution <br>
+Project 04 :  Global Underwriting Solution <br>
 
 Client			:  Bank of America <br>
 Duration 	 	:  Jan 2016 – Dec 2016 <br>
@@ -82,7 +98,7 @@ Responsibilities 	  <br>
 
 
 
-Project 04:  Global Monitoring Solution  <br>
+Project 05:  Global Monitoring Solution  <br>
 
 Client			:  Bank of America  <br>
 Duration 	 	:  Nov 2012 – Dec 2015  <br>
@@ -102,9 +118,9 @@ Responsibilities 	  <br>
 • Involved in Created new and enhancing existing SSIS jobs.  <br>
 
 
-**Cellarstone India, May 2010 to till Nov 2012				-     Application Engineer – 2.6 Years **
+**Cellarstone India, May 2010 to till Nov 2012						Application Engineer – 2.6 Years **
 
-Project 05:  MBTC (Mercedes Benz Testing center)  <br>
+Project 06:  MBTC (Mercedes Benz Testing center)  <br>
 
 Client			:  Mercedes Benz  <br>
 Duration 	 	:  Jan 2012 – Nov 2012  <br>
@@ -123,7 +139,7 @@ Responsibilities          <br>
 accounting / CRM software like QuickBooks, Salesforce, Microsoft Excel.  <br>
 
 
-Project 06:  Qcommission Portal  <br>
+Project 07:  Qcommission Portal  <br>
 
 Duration 	 	:  Jan 2011 – Dec 2011  <br>
 Role     			:  Application Engineer    <br>
@@ -142,7 +158,7 @@ Responsibilities         <br>
    accounting / CRM software like QuickBooks, Salesforce, Microsoft Excel.  <br>
 
 
-Project 07:  Qcommision Desktop Edition  <br>
+Project 08:  Qcommision Desktop Edition  <br>
 
 Duration 	 	:  May 2010 – Dec 2010  <br>
 Role     			:  Application Engineer  <br>
@@ -158,9 +174,9 @@ Responsibilities          <br>
 • Design and development of Date integration module for data exchange between various
 accounting / CRM software like QuickBooks, Salesforce, Microsoft Excel. <br>
 
-**Aisys Technologies, Sep 2009 - April 2010				-     Junior .Net Developer – 8 Months**
+**Aisys Technologies, Sep 2009 - April 2010					Junior .Net Developer – 8 Months**
 
-Project 08:  EMPRESOL - ERP (Enterprise Resource Planning)  <br>
+Project 09:  EMPRESOL - ERP (Enterprise Resource Planning)  <br>
 Client			:  Accurate Steel Forging Industry, Chennai  <br>
 Duration 	 	:    Sep 2009 – April 2010  <br>
 Role     			:   Junior .Net developer  <br>
