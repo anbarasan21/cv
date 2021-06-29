@@ -8,8 +8,8 @@
   - **Senior Associate** @ [Cognizant technology solutions] _(June 2018 - Present)_ <br>
   - **Technology Lead** @ [Infosys] _(Jan 2017 - June 2018)_ <br>
   - **Technology Analyst** @ [Infosys] _(Nov 2012 - Dec 2016)_ <br>
-  - **Application Engineer** @ [CellarStone] _(Nov 2012 - Dec 2016)_ <br>
-  - **Software developer** @ [Aisys Technologies] _(Nov 2012 - Dec 2016)_ <br>
+  - **Application Engineer** @ [CellarStone] _(Apr 2011 - Nov 2012)_ <br>
+  - **Software developer** @ [Aisys Technologies] _(Sep 2010 - Apr 2011)_ <br>
 
 ## 👨‍💻 Professional Certifications
 
